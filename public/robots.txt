@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /applications/
+Disallow: /games/
+Disallow: /manage/
+
+Sitemap: https://suketto-court.yhay81.com/sitemap.xml

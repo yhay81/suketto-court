@@ -1,0 +1,16 @@
+{
+  "name": "助っ人コート",
+  "short_name": "助っ人コート",
+  "description": "一開催のフットサル助っ人を、FP/GKの残枠から匿名で募集・応募。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e5",
+  "theme_color": "#174f3f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
